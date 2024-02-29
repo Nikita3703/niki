@@ -1,5 +1,4 @@
 # ニキータ・パリーク - Your Discord Companion
-
 ニキータ・パリーク is a versatile Discord bot equipped with a multitude of features. It excels in various tasks, including moderation, mini-games, and unique commands like weather updates, daily NASA images, and more.
 
 # Features
