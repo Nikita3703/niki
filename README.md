@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-Invite ニキータ・パリーク to your Server: Use the provided invite link to add ニキータ・パリーク to your Discord server.
+**Invite ニキータ・パリーク to your Server**: Use the provided [invite link](https://nikibot.in/) to add ニキータ・パリーク to your Discord server.
 
 **Configuration**: No configuration required! 
 
@@ -20,11 +20,9 @@ Invite ニキータ・パリーク to your Server: Use the provided invite link 
 
 ## Support
 
-If you encounter any issues or have questions, reach out to nikki.dev on the official [ニキータ・パリーク support server](https://discord.gg/Xyk2TjeAMJ).
+If you encounter any issues or have questions, reach out to nikki.dev on the official [ニキータ・パリーク support server](https://discord.gg/Xyk2TjeAMJ) or use `/report-issue` command directly from your server.
 
-Join the ニキータ・パリーク community and elevate your Discord experience!
-
-To invite the bot, go to [my webiste](https://nikibot.in/).
+Join the [ニキータ・パリーク](https://discord.gg/Xyk2TjeAMJ.) community and elevate your Discord experience!
 
 ## Important
 
