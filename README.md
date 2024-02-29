@@ -2,7 +2,7 @@
 
 ニキータ・パリーク is a versatile Discord bot equipped with a multitude of features. It excels in various tasks, including moderation, mini-games, and unique commands like weather updates, daily NASA images, and more.
 
-# Features
+## Features
 
 **Interactive Commands**: Engage with ニキータ・パリーク through a variety of commands to enhance your Discord server experience.
 
