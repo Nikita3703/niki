@@ -10,7 +10,7 @@
 
 **Fun and Games**: Spice up your server with entertaining games and activities provided by ニキータ・パリーク.
 
-# Getting Started
+## Getting Started
 
 Invite ニキータ・パリーク to your Server: Use the provided invite link to add ニキータ・パリーク to your Discord server.
 
@@ -18,13 +18,15 @@ Invite ニキータ・パリーク to your Server: Use the provided invite link 
 
 **Explore Commands**: Discover the wide range of commands available by typing !help in your Discord server.
 
-# Support
+## Support
 
 If you encounter any issues or have questions, reach out to nikki.dev on the official [ニキータ・パリーク support server](https://discord.gg/Xyk2TjeAMJ).
 
 Join the ニキータ・パリーク community and elevate your Discord experience!
 
 To invite the bot, go to [my webiste](https://nikibot.in/).
+
+## Important
 
 Read our [Privacy Policy](https://nikibot.in/privacy-policy).
 
