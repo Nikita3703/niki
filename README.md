@@ -4,6 +4,6 @@
 
 To invite the bot, go to [my webiste](https://nikibot.in/).
 
-Read our [Privacy Policy](https://nikibot.in/privacy-policy)
+Read our [Privacy Policy](https://nikibot.in/privacy-policy).
 
-Read the [Terms of Service](https://nikibot.in/terms-of-service)
+Read the [Terms of Service](https://nikibot.in/terms-of-service).
