@@ -7,6 +7,7 @@
 **Interactive Commands**: Engage with ニキータ・パリーク through a variety of commands to enhance your Discord server experience.
 
 **Moderation Tools**: Keep your server in check with moderation commands to manage members and content.
+
 **Fun and Games**: Spice up your server with entertaining games and activities provided by ニキータ・パリーク.
 
 # Getting Started
