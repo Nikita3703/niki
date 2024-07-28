@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="assets/css/contact.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <div class="contact-form">
+    <h1>Get in touch with us</h1>
+    <form action="https://api.web3forms.com/submit" method="POST" id="contactForm">
+
+      <input type="hidden" name="access_key" value="bd3cc371-69d9-4620-b8b5-32eea88024b3">
+      
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <select name="subject" required>
+          <option value="" disabled selected>Select a subject</option>
+          <option value="General Inquiry">General Inquiry</option>
+          <option value="Bot Not Working/Offline">Bot Not Working/Offline</option>
+          <option value="Report a Bug">Report a Bug</option>
+          <option value="Feedback">Feedback</option>
+          <option value="Other">Other</option>
+        </select>
+      <textarea name="message" placeholder="Message" rows="5" required></textarea>
+        <button type="submit">SEND MESSAGE</button>
+    </form>
+</div>
+</body>
+</html>
