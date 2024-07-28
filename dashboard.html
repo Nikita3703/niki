@@ -52,7 +52,7 @@
         console.log(response);
         const { username, avatar, id} = response;
         //set the welcome username string
-        document.getElementById('name').innerText = `${username}`;
+        // document.getElementById('name').innerText = `${username}`;
         //set the avatar image by constructing a url to access discord's cdn
         document.getElementById("avatar").src=`https://cdn.discordapp.com/avatars/${id}/${avatar}.jpg`
     })
