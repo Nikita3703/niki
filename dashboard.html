@@ -50,9 +50,10 @@
     .then(result => result.json())
     .then(response => {
         console.log(response);
-        const { username, avatar, id} = response;
+        const { username, avatar, id, email} = response;
         //set the welcome username string
         document.getElementById('name').innerText = `${username}`;
+        document.getElementById(`email`).InnerText = `${email}`;
         //set the avatar image by constructing a url to access discord's cdn
         document.getElementById("avatar").src=`https://cdn.discordapp.com/avatars/${id}/${avatar}.jpg`
     })
