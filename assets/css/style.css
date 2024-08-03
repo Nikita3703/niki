@@ -14,6 +14,10 @@ html {
 
 .bg-base {
   background-color: #1a2634 !important;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 #backtotop {
@@ -265,67 +269,4 @@ nav.nav-w {
 
 .transparent-button i {
   margin-right: 5px;
-}
-
-
-/* This is new */
-
-
-/* Apply box-sizing to all elements */
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
-
-.form-container {
-    max-width: 500px;
-    margin: 50px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    background-color: #f9f9f9;
-}
-
-.form-container label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: bold;
-}
-
-.form-container input,
-.form-container select {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.form-container textarea {
-    width: 100%;
-    max-width: 100%; /* Ensure textarea does not exceed the container width */
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    resize: vertical; /* Allow only vertical resizing */
-}
-
-.form-container .button-container {
-    text-align: center; /* Center the button */
-}
-
-.form-container button {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    background-color: #007bff;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-.form-container button:hover {
-    background-color: #0056b3;
 }
