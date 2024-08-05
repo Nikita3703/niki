@@ -14,16 +14,6 @@ body {
     color: #ffffff;
 }
 
-@media only screen and (max-width: 767px) {
-    .background {
-        background-image: url('https://media.discordapp.net/attachments/1083967939381833738/1266521839342063647/cute-anime-cat-girl-nekomimi-kawaii_021352.png?ex=66aeae61&is=66ad5ce1&hm=beeacac9a90c7d247865de171ae6281ab47c18e5548f8d3ea1f13f201bd32835&=&format=webp&quality=lossless&width=756&height=423);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        height: 100vh; /* Adjust as needed */
-    }
-}
-
 .container {
     max-width: 900px;
     margin: 20px;
